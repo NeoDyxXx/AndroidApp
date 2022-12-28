@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "courseproject-369920",
+  "private_key_id": "f52b943639d62a94f16dfdd966357e0b163430e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6Ao5LzNwBACc1\nXT2Jr4akWFny1oWACaqLq+tuSlkhH4/yUQxNGFW2rivpsn453aE+6oLAPt9vZY+d\nUaO0AwbVG43BpfGqv7z2sdKzTBHd7ruttbymag/mwQo3pZl+6WlSpsHnLtxeSZo/\n2e3xbiSDWxHf9uk+WodynuPHvbHZyoHSrCrDzP5AvIFPFS1Qo0/+9vspZOU2yvKA\nfar/7mflLvg/9UpCVF9QZV85sYR5vGCxAkCMgdv+FpEc0vsChdiBQq3rCT74dgO2\nF/VsEJ/wSxfzMgD6k0K6xv02zs7iAprt2ChzAylB3ohgkXLwYVgIkZtHBo+55epg\nmX5eZ8ZtAgMBAAECggEAEk1rE/FJ2n1Z3knY4sHXJTeeTiMmiqUo10poxXbiUzyI\nTOcFp1ZUJL/5iSqreeUhVw/7IpBtKsha+7dLPMypcPGfnqTF5S+tl7aCjWrYPTae\n1+ZQdC1ueB2ZdEVCl7a+ysemv6kgPNTQLSUz4PQd+qDM3vUsGRsORcx1jDNRmyTD\nZOr+90i5C1qim8ViHt8iM7NK3ENKj8muBo8IlWHd1qyAEvDXcaHe3SFsn+gCQMjW\nGORGY5CkgE5mRSXUxNi3Jthbj0VJnQWflV3kpvWWABvJxN7SjnOOIgwlpzsIpQvb\nrcx2M+Qx5VcC6T9zZQ+Kq8zPmsGTQdrzLrBMrGy4EQKBgQDmTG3UpHkZyJF6Eh8l\n0J+aM9t+ffYs98WGKEKo9H5kC7ca8ApA3Y6uBhMVAsjPEmMKc3N4n113CYBh0lrg\ncKCV+NRPXr2rdcE/AOg74nIAXr6cVKjXfa66VdXenKPHcVyXrMRTo8ERgql2ISLL\nfX4BrxXAZGIpe8VFP30uXStDiQKBgQDOxNBQl9O18F630t2KCmVJqNPOyQCZ6bK3\nqhFlysoafwo5ttyC6e45vHwaUv2p1vCTVBJ92qQfrrNC5oCunu/1eXbUOyf9kw2C\n/HeZbUPVO+0TZxegGRq9F0JlRYWlt6Z668xQLjj9gR8bkRlQqn094ZzoigbLD7sX\n1aSqLCzexQKBgD2izvJOYqrn5yeImhWA1HZs0p30EGLQnWjedZjKdtlH2WW4QMZD\nheBFd+3zpNLm1OMDKzBpVpZ5UIbdybyv6Aq7YfcsIA83oNS/5WfBn0lCEjm83sNt\nu8nbFzZRLfQ+/s0JTDImbZHGKpyXGbzkhUjmFyg6tZrsqUtzRomWHfIhAoGBAIcZ\nl9cg7ObS8MCBWdlpI3c2hXZ2ZRsr1GcnCwkMsHMRkNfXAEvVl59H5Xq5wR5o33YU\nF6T96AD/gAd1Xp06IiWtQJQ5Ns77d3efiHHKL+kyp5vm30vvO0ZT3UEYZNO7pF5q\nlWvKV9hjtrSnYPgQ/ZYiRQi3ruqdE6zmHhpGlObVAoGAVSz7JsFKlwDYLUjlhEfU\n+De+UuuBUIR3zI69fiDwZgFx+CQEMbAWyJvk+c3yq7tQEARqhrDLSZnRk6pFFz6B\nF4LgaWGMGCDunt6H+741na4Kz8Bm7hEZmhOHDuKtm5LfbrzRmbI1S/qNikrMSIbR\nZq14TraCulv8WrXzweoZsOU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-big-query@courseproject-369920.iam.gserviceaccount.com",
+  "client_id": "104963167542865185939",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-big-query%40courseproject-369920.iam.gserviceaccount.com"
+}
